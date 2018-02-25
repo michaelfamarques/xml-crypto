@@ -9,7 +9,7 @@
   "dependencies": {
     "xmldom": "=0.1.19",
     "xpath.js": ">=0.0.3",
-    "crypto-browserify": "*"
+    "crypto-browserify": "^3.12.0"
   },
   "devDependencies": {
     "nodeunit": ">=0.6.4"
